@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/misterio-de-pasion/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Misterio de pasión](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/misterio-de-pasion/) |
+| **Get License** | [Request Licensing for Misterio de pasión](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/misterio-de-pasion/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Oye, baby, la noche pide que te acerques más
+> Con esa mirada me tienes perdiendo la paz
+> Tú y yo en la disco, el ambiente se empieza a calentar
+> Un misterio de pasión que no quiero terminar
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
