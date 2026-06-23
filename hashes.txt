@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Misterio de pasión
+
+This log tracks the cryptographic history and versioning for the song **Misterio de pasión** (misterio-de-pasion).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-23T13:09:39.737482 | `v1` | `c36da2531ba6c9abab84328b62e2f3f219d733f9d1bf38aa85ffebcc7e6bf224` | `8cb5055cf5894a8046d7b651e366b541db78bb34586c97e41431c0d10b456b24` | `2026-06-23_misterio-de-pasion-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
